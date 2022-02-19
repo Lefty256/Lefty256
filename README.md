@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lefty256
 - 👀 I’m interested in building complex projects in general.
-- 🌱 I’m currently learning HTML and CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
